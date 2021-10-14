@@ -1,0 +1,104 @@
+img {
+    width: 250px;
+}
+img.xanh {
+    width: 400px;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+h2 {
+    padding: 40px;
+    font-size: 50px;
+}
+h3 {
+    font-size: 50px;
+}
+p#to {
+    font-size: 30px
+}
+img.do {
+    width: 50px;
+}
+p#no {
+    width: 1278px;
+    height: 234px;
+}
+.box {
+    height: 100px;
+    text-align: center;
+}
+.box1 {
+    height: 99px;
+    width: 1347px;
+    text-align: center;
+    margin: auto;
+}
+.box2 {
+    width: 1343px;
+    height: 609px;
+    margin: auto;
+    text-align: auto;
+}
+.box3 {
+    width: 1343px;
+    margin: auto;
+    text-align: auto;
+    height: 225px;
+}
+.box4 {
+    width: 1343px;
+    margin: auto;
+    text-align: auto;
+}
+.box5 {
+    width: 1343px;
+    margin: auto;
+    text-align: auto;
+}
+.box6 {
+    width: 1343px;
+    margin: auto;
+    text-align: auto;
+}
+.Poster {
+    width: 100%;
+    position: fixed;
+    top: 10px;
+    left: 0px;
+}
+.Poster_wrap {
+    width: 1024px;
+    margin: auto;
+}
+.Poster_left {
+    float: left;
+    margin-left: -430px;
+}
+.Poster_right {
+    float: right;
+    margin-right: -430px;
+}
+.gi {
+    text-align: center;
+}
+.anh {
+    height: 620px;
+}
+.FB {
+    width: 50px;
+}
+h4 {
+    font-size: 20px;
+}
+.email {
+    width: 50px;
+}
+h3#KO {
+    font-size: 30px;
+}
